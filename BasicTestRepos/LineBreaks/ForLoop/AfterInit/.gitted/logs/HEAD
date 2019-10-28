@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 74e689229829b7f9310f3689c0b477f6266da628 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.c with for-loop +
+74e689229829b7f9310f3689c0b477f6266da628 e5c1e7659748b5cd60f4ea8577f929c86d612564 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Changes init of for-loop from
