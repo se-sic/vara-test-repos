@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 3d438b2337398432fbdad847e98bd016d7c21e5d VaRA Tester <vara-test@example.com> 1573561247 +0100	branch: Created from HEAD
+3d438b2337398432fbdad847e98bd016d7c21e5d e1904c0aee7cae88564869a35ec11edaac479a73 VaRA Tester <vara-test@example.com> 1430823599 +0200	commit: Adds return to doStuff
