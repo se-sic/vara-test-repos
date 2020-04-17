@@ -1,3 +1,3 @@
 0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
-c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 61d580911b7bb463de06e49b7e497236650b2c62 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.c with empty main method
-61d580911b7bb463de06e49b7e497236650b2c62 317e5d980d1a0c96a30d797e663dd8b9db4e94eb VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds sum function
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 52f4524519823b747911ab3437d052b17484790b VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.cpp with empty main method
+52f4524519823b747911ab3437d052b17484790b 7ff7c3ec177acfc3ddc2ec07b1d42a6f9e78550f VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds sum function
