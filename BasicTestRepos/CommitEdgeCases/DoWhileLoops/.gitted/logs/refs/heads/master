@@ -1,7 +1,7 @@
 0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
-c62c8c64c4c21ffe96f2863e94eab12687ad2cbf b5f841e7b37d5710b92e71f9f21d9bcdf04a541e VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.cpp with empty main method
-b5f841e7b37d5710b92e71f9f21d9bcdf04a541e 3824455f80046fe58e865c720a78d8600d5b94be VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds sum function
-3824455f80046fe58e865c720a78d8600d5b94be 7bf9d8037707fd5eb9c505c49dfbb05d98929c75 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds sum function
-7bf9d8037707fd5eb9c505c49dfbb05d98929c75 dcebfc746760543cb237831e9ef9773f7b753928 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds sum function
-dcebfc746760543cb237831e9ef9773f7b753928 57f0e26bb448572d9d2b141e88ad8c88171dad4c VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds sum function
-57f0e26bb448572d9d2b141e88ad8c88171dad4c e283fb82c962384501e1124757f49063c5126c4f VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds sum function
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf c72bba22ea4e4ba4e888bdf10a02be8464eebc8d VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.cpp with empty main method
+c72bba22ea4e4ba4e888bdf10a02be8464eebc8d 8be7b8ab8ccd3d43eee0ddc85a97197282d34e9d VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds sum function
+8be7b8ab8ccd3d43eee0ddc85a97197282d34e9d 157d4928ee1ff9bb522354fecd38ed16c5f91a9e VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds sum function
+157d4928ee1ff9bb522354fecd38ed16c5f91a9e 4dc093925e8be9fd1dbcc7b77c114524102f517b VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds sum function
+4dc093925e8be9fd1dbcc7b77c114524102f517b 905461ac9f8c3eb460df26e86885f77c0e2a9da0 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds sum function
+905461ac9f8c3eb460df26e86885f77c0e2a9da0 daa8d38a32edb048a21e6aadaa506fd682808a8e VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds sum function

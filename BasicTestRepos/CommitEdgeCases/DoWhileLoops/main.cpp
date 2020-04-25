@@ -11,7 +11,7 @@ int dowhileloop_linebreakwhile() {
 int dowhileloop_linebreakbcond() {
   int counter = 42;
   int lbbc_sum = 0;
-  {
+  do {
     lbbc_sum += counter;
   } while
     (counter--);
@@ -40,7 +40,7 @@ int dowhileloop_normal() {
 int dowhileloop_linebreaknobrack() {
   int counter = 42;
   int lbnb_sum = 0;
-  {
+  do {
     lbnb_sum += counter;}
   while (counter--) ;
   return lbnb_sum;
