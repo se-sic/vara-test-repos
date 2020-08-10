@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 694b46f7da32910e90f9f33e2115dd4db51ab4ad VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Added empty project files
+694b46f7da32910e90f9f33e2115dd4db51ab4ad 546fb88d4647a21ff16e37a75bf4e7ab9e45c5ef VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add CMakeLists code
+546fb88d4647a21ff16e37a75bf4e7ab9e45c5ef 3ddc5d2396346664ef9b992798089b44c20a3d6a VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds function head cast_water_beam()
+3ddc5d2396346664ef9b992798089b44c20a3d6a 3291957bc79d9de23ecd41acab9775b5cd009b0c VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds impl of cast_water_beam()

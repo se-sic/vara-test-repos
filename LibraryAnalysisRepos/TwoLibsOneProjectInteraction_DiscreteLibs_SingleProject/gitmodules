@@ -1,0 +1,6 @@
+[submodule "external/water_lib"]
+	path = external/water_lib
+	url = ../water_lib
+[submodule "external/fire_lib"]
+	path = external/fire_lib
+	url = ../fire_lib
