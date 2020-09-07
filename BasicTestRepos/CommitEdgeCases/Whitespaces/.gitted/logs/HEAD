@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf a8619159dae257c0e407c2f698ac7e5c65785987 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.cpp with empty main method
+a8619159dae257c0e407c2f698ac7e5c65785987 f4be980d51971e5846ee4a18d228ddb3e42b8e4e VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds base version of main with whitespaces wrong
+f4be980d51971e5846ee4a18d228ddb3e42b8e4e 918548180a1bb792eef36b3feb6ea6971aa85a40 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: First, whitespace adding commit
+918548180a1bb792eef36b3feb6ea6971aa85a40 8c9cd1aeac59344aeba42560dca7f0cf759db36f VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Second, whitespace removing commit
