@@ -4,8 +4,8 @@
 	bare = false
 	logallrefupdates = true
 [submodule "external/water_lib"]
-	url = /home/vulder/git/vara-test-repo-configs/LibraryAnalysisRepos/TwoLibsOneProjectInteraction_DiscreteLibs_SingleProject/water_lib
+	url = ../../water_lib
 	active = true
 [submodule "external/fire_lib"]
-	url = /home/vulder/git/vara-test-repo-configs/LibraryAnalysisRepos/TwoLibsOneProjectInteraction_DiscreteLibs_SingleProject/fire_lib
+	url = ../../fire_lib
 	active = true
