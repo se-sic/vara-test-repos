@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = ../../../../external/fire_lib
+[remote "origin"]
+	url = /home/vulder/git/vara-test-repo-configs/LibraryAnalysisRepos/TwoLibsOneProjectInteractionDiscreteLibsSingleProject/fire_lib
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
