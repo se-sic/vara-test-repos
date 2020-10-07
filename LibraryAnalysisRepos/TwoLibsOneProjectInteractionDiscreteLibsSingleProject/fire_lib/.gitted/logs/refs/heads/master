@@ -1,5 +1,5 @@
 0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 47d5ed6b5e45b269adb57a0497175f3cd00a7885 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Added empty project files
 47d5ed6b5e45b269adb57a0497175f3cd00a7885 de49f453a3392032ed7ad8266f3c064404138e3e VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add CMakeLists code
-de49f453a3392032ed7ad8266f3c064404138e3e 258e001288d4584bbc912c5b030b60060ae77fe7 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds function head cast_fire_bolt()
-258e001288d4584bbc912c5b030b60060ae77fe7 428d3073f949aa23b57ace6a87eb5af89bcf6401 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds impl of cast_fire_bolt()
+de49f453a3392032ed7ad8266f3c064404138e3e c52d7fdd56bdae00274b730fa6b86d6fe6222d63 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds function head for fire lib
+c52d7fdd56bdae00274b730fa6b86d6fe6222d63 ead5e00960478e1d270aea5f373aece97b4b7e74 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds impl of fire lib

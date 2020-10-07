@@ -1,6 +1,7 @@
 0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 97d5f7e3fe567a8ab9ec6eb6535c016d39e2a1c5 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add CMakeLists code
 97d5f7e3fe567a8ab9ec6eb6535c016d39e2a1c5 cf5e1f10161e06c656e8fe112fb5f135af5a6058 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add CMakeLists code
-cf5e1f10161e06c656e8fe112fb5f135af5a6058 14cac2707587093cc9bc591f76852efb792d1c71 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add CMakeLists code
-14cac2707587093cc9bc591f76852efb792d1c71 1c2185008fce4e541d3ce615370c438c652deac0 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add CMakeLists code
-1c2185008fce4e541d3ce615370c438c652deac0 9326644f41c9fba32e91b5cd7c9bb6b5eab5076d VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds elementalist code
+cf5e1f10161e06c656e8fe112fb5f135af5a6058 e711e8a18b13dfda7d5b1c81dfc700b617c57e27 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add CMakeLists code
+e711e8a18b13dfda7d5b1c81dfc700b617c57e27 f15019873ed2e808fd04d01469fb3bd2dc1fc9ec VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add CMakeLists code
+f15019873ed2e808fd04d01469fb3bd2dc1fc9ec 5e030723d70f4894c21881e32dba4decec815c7e VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds elementalist code - includes, handleElementalistStuff(), main()
+5e030723d70f4894c21881e32dba4decec815c7e bd693d7bc2e4ae5be93e300506ba1efea149e5b7 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds elementalist code - get_shout()

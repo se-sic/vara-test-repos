@@ -1,3 +1,3 @@
 #include <iostream>
 
-void cast_water_beam();
+std::string get_water_spell();

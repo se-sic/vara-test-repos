@@ -3,18 +3,20 @@
 
 #include <iostream>
 
-void handleElementalistStuff() {
-  std::cout << "Try to cast fire thingy" << std::endl;
-  cast_fire_bolt();
+std::string get_shout(std::string shout) { return shout; }
+
+void handle_elementalist_stuff() {
+  std::cout << get_shout("Casting fire thingy!") << std::endl;
+  std::cout << get_fire_spell() << std::endl;
   std::cout << "I'm not done yet." << std::endl;
 
-  std::cout << "Try to cast water stuff." << std::endl;
-  cast_water_beam();
+  std::cout << get_shout("Casting water stuff!") << std::endl;
+  std::cout << get_water_spell() << std::endl;
   std::cout << "Now I'm done." << std::endl;
 }
 
 int main(/* int argc, char *argv[] */) {
   // do stuff
-  handleElementalistStuff();
+  handle_elementalist_stuff();
   return 0;
 }

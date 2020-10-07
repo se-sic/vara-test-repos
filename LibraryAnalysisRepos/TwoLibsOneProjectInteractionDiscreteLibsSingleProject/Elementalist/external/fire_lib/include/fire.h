@@ -1,3 +1,3 @@
 #include <iostream>
 
-void cast_fire_bolt();
+std::string get_fire_spell();
