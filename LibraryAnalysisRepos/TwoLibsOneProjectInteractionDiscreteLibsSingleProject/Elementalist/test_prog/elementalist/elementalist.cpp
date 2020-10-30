@@ -13,6 +13,13 @@ void handle_elementalist_stuff() {
   std::cout << get_shout("Casting water stuff!") << std::endl;
   std::cout << get_water_spell() << std::endl;
   std::cout << "Now I'm done." << std::endl;
+
+  std::cout << get_shout("Tricked ya! Still casting water stuff!") << std::endl;
+  std::cout << get_water_spell() << std::endl;
+  std::cout << get_shout("Guess what comes next...") << std::endl;
+
+  std::cout << get_fire_spell() << std::endl;
+  std::cout << "All mana consumed." << std::endl;
 }
 
 int main(/* int argc, char *argv[] */) {

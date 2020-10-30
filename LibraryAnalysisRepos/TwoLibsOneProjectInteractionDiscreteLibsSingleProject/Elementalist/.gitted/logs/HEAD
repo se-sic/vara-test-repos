@@ -5,3 +5,5 @@ cf5e1f10161e06c656e8fe112fb5f135af5a6058 e711e8a18b13dfda7d5b1c81dfc700b617c57e2
 e711e8a18b13dfda7d5b1c81dfc700b617c57e27 f15019873ed2e808fd04d01469fb3bd2dc1fc9ec VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add CMakeLists code
 f15019873ed2e808fd04d01469fb3bd2dc1fc9ec 5e030723d70f4894c21881e32dba4decec815c7e VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds elementalist code - includes, handleElementalistStuff(), main()
 5e030723d70f4894c21881e32dba4decec815c7e bd693d7bc2e4ae5be93e300506ba1efea149e5b7 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds elementalist code - get_shout()
+bd693d7bc2e4ae5be93e300506ba1efea149e5b7 97c573ee98a1c2143b6876433697e363c9eca98b VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds elementalist code - get_shout("Tricked ya! Still casting water stuff!"), get_water_spell()
+97c573ee98a1c2143b6876433697e363c9eca98b e64923e69eab82332c1bed7fe1e80e14c2c5cb7f VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds elementalist code - get_fire_spell(), Mana consumed
