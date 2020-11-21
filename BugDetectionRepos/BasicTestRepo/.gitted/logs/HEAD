@@ -9,14 +9,3 @@ d846bdbe45e4d64a34115f5285079e1b5f84007f 8fae311154a28b7928fe667b6aad09319259b1a
 c4b7bd9a2cedf1eb67d13be3cf4e826273cfe17b 4b204ef516b6cc4bd0e91f16cefeebcd38b727c3 VaRA Tester <vara-test@example.com> 1336392002 +0200	commit: Added comment
 4b204ef516b6cc4bd0e91f16cefeebcd38b727c3 3b76c8d295385358375fefdb0cf045d97ad2d193 VaRA Tester <vara-test@example.com> 1336397563 +0200	commit: Multiplication result fix
 3b76c8d295385358375fefdb0cf045d97ad2d193 6bc82f5e3f052fee1cf1b126ba3dfc83073c958e VaRA Tester <vara-test@example.com> 1336399495 +0200	commit: Comment changed
-6bc82f5e3f052fee1cf1b126ba3dfc83073c958e c03d63b960ae49051a5c0be967675c6f2f5ec9bb VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: initial commit
-c03d63b960ae49051a5c0be967675c6f2f5ec9bb c1b8af7853c3ff995f24f2cc51c5cfa4ab259cf1 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.c with empty main method
-c1b8af7853c3ff995f24f2cc51c5cfa4ab259cf1 3a07e7a4f8f4f852182a861a873a75c4eb87533c VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: New sum function
-3a07e7a4f8f4f852182a861a873a75c4eb87533c 2cefc5eabbd66e050efd88c28a95830dcacfd6f0 VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Fixed function arguments
-2cefc5eabbd66e050efd88c28a95830dcacfd6f0 ebe4b113f8b2e8fef4d5b2478c2c707b3f778a34 VaRA Tester <vara-test@example.com> 1328145742 +0100	commit: Fixes answer to everything
-ebe4b113f8b2e8fef4d5b2478c2c707b3f778a34 1e2fa3174f4ccb52184e2cfca0562a9ab1d57da4 VaRA Tester <vara-test@example.com> 1328274245 +0100	commit: Added multiply
-1e2fa3174f4ccb52184e2cfca0562a9ab1d57da4 dc8d24f6be4507cff09df5723bdc61078111eb1f VaRA Tester <vara-test@example.com> 1430567972 +0200	commit: Fixes return type of multiply
-dc8d24f6be4507cff09df5723bdc61078111eb1f b0423da1b41848d0bb5eda04fccc420306101df2 VaRA Tester <vara-test@example.com> 1336341602 +0200	commit: Added local variable to multiply
-b0423da1b41848d0bb5eda04fccc420306101df2 96870950e396806f44ec171838ea4f01cae66cdf VaRA Tester <vara-test@example.com> 1336392002 +0200	commit: Added comment
-96870950e396806f44ec171838ea4f01cae66cdf 6eac57e9d0f80f16493ae2a61310f55fe3daeea0 VaRA Tester <vara-test@example.com> 1336397563 +0200	commit: Multiplication result fix
-6eac57e9d0f80f16493ae2a61310f55fe3daeea0 7d517fbcf315a282e1590e6b9b7b283f2698a42c VaRA Tester <vara-test@example.com> 1336399495 +0200	commit: Comment changed
