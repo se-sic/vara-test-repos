@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 122c0c9560c5386bc410cdbe1f8071f03e90c24f VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.cpp with empty main method
+122c0c9560c5386bc410cdbe1f8071f03e90c24f dacce9cd5a39002c4c77dd088575affbd4ab252d VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds global var a
+dacce9cd5a39002c4c77dd088575affbd4ab252d 38951fcbbf7fb8329464d30e593e359a96c775a9 VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Introduces usage of a
+38951fcbbf7fb8329464d30e593e359a96c775a9 0b5053552c9ef94212a0c2d9f04727a9171a08d8 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds global var b
+0b5053552c9ef94212a0c2d9f04727a9171a08d8 3f52e7ce8722b00394cea250fc121fce4ff3276a VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds init method for b
+3f52e7ce8722b00394cea250fc121fce4ff3276a eb88ecbf0873667c041b677ad240184ab424759d VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Introduces init call for b
+eb88ecbf0873667c041b677ad240184ab424759d e6cee9c72905ea5352dacc05a362430451cdd68d VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Create extra c var to save value before init call
+e6cee9c72905ea5352dacc05a362430451cdd68d 2fcad4d3c5744250c648e7a023798a64e61d0ad4 VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Introduces usage of b
