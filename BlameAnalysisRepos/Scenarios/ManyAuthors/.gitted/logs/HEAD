@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 2a04765b49b33fb976d6b24f5b7f4fec82821dc0 Alice <alice@example.com> 1262372400 +0100	commit: Add initial main.c
+2a04765b49b33fb976d6b24f5b7f4fec82821dc0 0ddd6921835800e66fa61cdc3852ddb128596838 Bob <bob@example.com> 1262372400 +0100	commit: Add function 1
+0ddd6921835800e66fa61cdc3852ddb128596838 e1695503b28e052e17685a961bf986dfc273885a Carol <carol@example.com> 1262372400 +0100	commit: Add function 2
+e1695503b28e052e17685a961bf986dfc273885a 80a7bc13fe2846d1f6a08466f5f9d574413635c2 Dave <dave@example.com> 1262372400 +0100	commit: Add function 3
+80a7bc13fe2846d1f6a08466f5f9d574413635c2 71d52a9ec1bd8910e0d4988ee382d3e7f87f9b1b Erin <erin@example.com> 1262372400 +0100	commit: Add function 4
+71d52a9ec1bd8910e0d4988ee382d3e7f87f9b1b fa71cdf118cd6b50b4744b0f550aa1f3e4810722 Frank <frank@example.com> 1262372400 +0100	commit: Add function 5
+fa71cdf118cd6b50b4744b0f550aa1f3e4810722 4d022fa2af55627b7ca6b4f0b32af13bfc37d660 Alice <alice@example.com> 1328144522 +0100	commit: Change main function

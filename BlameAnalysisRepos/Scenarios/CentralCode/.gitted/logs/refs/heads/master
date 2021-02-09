@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 7ac9c0002de8b34df4eaf118a578e579dfed2c68 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add initial main.c
+7ac9c0002de8b34df4eaf118a578e579dfed2c68 3fc5f4c3ebcd17ac42fb0df478b37dce064655c4 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add function 1
+3fc5f4c3ebcd17ac42fb0df478b37dce064655c4 b97929f313fbd2dd6cfb70c2839e2ea18bc7c9bd VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add function 2
+b97929f313fbd2dd6cfb70c2839e2ea18bc7c9bd 1a14c6245c72f001338d6ebd692c0f09e031f212 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add function 3
+1a14c6245c72f001338d6ebd692c0f09e031f212 032fc81e9df52802cef66c57a272cfb39c0806aa VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add function 4
+032fc81e9df52802cef66c57a272cfb39c0806aa c6d28b808b6b16f17ad6ce7b862f8a925f8e5272 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add function 5
+c6d28b808b6b16f17ad6ce7b862f8a925f8e5272 507cbbc988fe53f6a07850a76f150d80daaa70b2 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add function 6
+507cbbc988fe53f6a07850a76f150d80daaa70b2 d8ff8f6d44dab9cd52f84e0cdad2d79949d68cc0 VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Change central function

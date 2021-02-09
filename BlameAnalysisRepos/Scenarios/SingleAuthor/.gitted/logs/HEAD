@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 4beb1026c1c883a16e027f4529a1efcc892b0810 Alice <alice@example.com> 1262372400 +0100	commit (initial): initial commit
+4beb1026c1c883a16e027f4529a1efcc892b0810 7f2d81e5ac4479e316984c1f5c04e920e4a6f2aa Alice <alice@example.com> 1262372400 +0100	commit: Add initial main.c
+7f2d81e5ac4479e316984c1f5c04e920e4a6f2aa bc8a874f6acfda700c18b2cec00dd09370a2aa16 Alice <alice@example.com> 1262372400 +0100	commit: Add function 1
+bc8a874f6acfda700c18b2cec00dd09370a2aa16 fdb6c67eb03857d88e7ad4ae1b884e63e09efadd Alice <alice@example.com> 1262372400 +0100	commit: Add function 2
+fdb6c67eb03857d88e7ad4ae1b884e63e09efadd d7c32f36c54b23a8370712c12a636bac3562de05 Alice <alice@example.com> 1262372400 +0100	commit: Add function 3
+d7c32f36c54b23a8370712c12a636bac3562de05 8496a0b1f27036d76da4a92a91267281264f1ebe Alice <alice@example.com> 1262372400 +0100	commit: Add function 4
+8496a0b1f27036d76da4a92a91267281264f1ebe 759378c996889593646f89e8d5a73103f08efeaf Alice <alice@example.com> 1262372400 +0100	commit: Add function 5
+759378c996889593646f89e8d5a73103f08efeaf e5ac26a9ba7bfa3b2a2c6abfccda3e945e2dc7c7 Alice <alice@example.com> 1328144522 +0100	commit: Change main function

@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 19176e23c83de59170a4755becf5b933c4b2862f VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add expression implementation.
+19176e23c83de59170a4755becf5b933c4b2862f c6d8aa79b21d33f3ba1ee5d8666115a24ee23fbb VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add simple recursive descent parser.
+c6d8aa79b21d33f3ba1ee5d8666115a24ee23fbb 479a429c863ab9d7c41fc0c80313aa0158140efd VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add eval and print visitors.
+479a429c863ab9d7c41fc0c80313aa0158140efd d207c0f4a6378954832c3d2602b783b6820ae4e7 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add calculator class with repl loop.

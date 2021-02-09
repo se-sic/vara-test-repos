@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 508c891d4e33f66c8bb1fdd24accf4a2fed0d564 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add initial main.c
+508c891d4e33f66c8bb1fdd24accf4a2fed0d564 e506057f5d97f6df2120afa278c340241450faf5 VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Check negative instead of positive
+e506057f5d97f6df2120afa278c340241450faf5 e217b30b8b0ddd71671cfeb213aa638cbe0d4be5 VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Fix condition

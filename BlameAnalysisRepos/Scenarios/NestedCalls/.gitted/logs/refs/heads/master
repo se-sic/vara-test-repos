@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 61d580911b7bb463de06e49b7e497236650b2c62 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.c with empty main method
+61d580911b7bb463de06e49b7e497236650b2c62 60c139e1b28052c482ef299dcfbdd933c2764db9 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds print0() function
+60c139e1b28052c482ef299dcfbdd933c2764db9 d1217a782748e3455814d357287d33848e7e014e VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds print1() function
+d1217a782748e3455814d357287d33848e7e014e 5b7a9ca86571fe226b4136692abdeb2df543bdeb VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds print2() function
+5b7a9ca86571fe226b4136692abdeb2df543bdeb f6fb2a1405b8a5881863438d080d0a230903fd8b VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds print3() function
+f6fb2a1405b8a5881863438d080d0a230903fd8b 010cf9f4bb96269619247a14ef1924405a5efaf2 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds print4() function
+010cf9f4bb96269619247a14ef1924405a5efaf2 c3b7ba0aba0f4c2bf2594fd9544154be684ceca6 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds print5() function
