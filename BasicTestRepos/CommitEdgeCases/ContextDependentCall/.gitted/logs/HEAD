@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 52f4524519823b747911ab3437d052b17484790b VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.cpp with empty main method
+52f4524519823b747911ab3437d052b17484790b 361f43c9711165711e59ebbca1ee31153f2c13b1 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add contextDependentFunction
+361f43c9711165711e59ebbca1ee31153f2c13b1 c33d2a776136f27f3ee4a4955ca6f9d0fe25b26a VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add first context usage function
+c33d2a776136f27f3ee4a4955ca6f9d0fe25b26a d281c6a5e42ce614f5beb3b69cad705ad21ebe1d VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add first context call
+d281c6a5e42ce614f5beb3b69cad705ad21ebe1d 86423165118d5ba847cf392c5178361654455be6 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add second context usage function
+86423165118d5ba847cf392c5178361654455be6 b7a85219ee0cbed7f2de9a512e6edfae2c7d7b7c VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add second context call
+b7a85219ee0cbed7f2de9a512e6edfae2c7d7b7c 35863fd82400847e7ef5f3b6e79168c42de19c84 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds main calls
