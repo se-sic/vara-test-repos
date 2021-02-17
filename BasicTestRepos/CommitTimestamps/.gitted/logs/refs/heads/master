@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 61d580911b7bb463de06e49b7e497236650b2c62 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.c with empty main method
+61d580911b7bb463de06e49b7e497236650b2c62 c09fe5da2c514fef81f514e0b8f0579fb9319612 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds sum function
+c09fe5da2c514fef81f514e0b8f0579fb9319612 9b95f446e65133176e7f3ae0a94ce101e6936323 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Fixes answer to everything
+9b95f446e65133176e7f3ae0a94ce101e6936323 3babfac38521f38a08a1df8af7c0d4ea5ec2e36c VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Code without return flow doStuff
+3babfac38521f38a08a1df8af7c0d4ea5ec2e36c 54f567a86207c608537ba42004e8b4f4e8e4163d VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds return to doStuff
