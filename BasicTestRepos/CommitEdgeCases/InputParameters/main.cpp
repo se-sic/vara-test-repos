@@ -16,4 +16,5 @@ int main() {
 
   int VarIP;
   inputPtrParam(&VarIP);
+  return VarI + VarIR + VarIP;
 }

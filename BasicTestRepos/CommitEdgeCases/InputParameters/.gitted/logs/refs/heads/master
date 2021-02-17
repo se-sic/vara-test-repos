@@ -1,8 +1,9 @@
 0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
-c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 52f4524519823b747911ab3437d052b17484790b VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.cpp with empty main method
-52f4524519823b747911ab3437d052b17484790b bce7fb61fd06615bf3824785295772226a64d9f0 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add inputPtrParam
-bce7fb61fd06615bf3824785295772226a64d9f0 4021b7ceb3105226b433959af6963f701ae2334d VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add inputRefParam
-4021b7ceb3105226b433959af6963f701ae2334d fbdd24ce8347a57ec1334efe3df1e5b583f47062 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add noInputParam
-fbdd24ce8347a57ec1334efe3df1e5b583f47062 8e26f8a8ce3e03e9f5cdf437972bd768077edeed VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add noInputParam call
-8e26f8a8ce3e03e9f5cdf437972bd768077edeed 541abee564bdb8b82e75b2765399b8c19cd5437b VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add inputRefParam call
-541abee564bdb8b82e75b2765399b8c19cd5437b 05bb4ba4b6adf75158bf7577bceea7bc0608e0a9 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add inputPtrParam call
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf d459fed0f0a63f127fb1924cce850d659e8888be VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.cpp with empty main method
+d459fed0f0a63f127fb1924cce850d659e8888be 98e8992c1fcfe47252bbdadfc59e71b81bc54a14 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add inputPtrParam
+98e8992c1fcfe47252bbdadfc59e71b81bc54a14 fce3f3b1aa4bf6c179c6644eeeffc145ecb025fd VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add inputRefParam
+fce3f3b1aa4bf6c179c6644eeeffc145ecb025fd 1051d3a6bc5f5d13c3c9c3497f4c92892762c047 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add noInputParam
+1051d3a6bc5f5d13c3c9c3497f4c92892762c047 2e423c1649f46a0ac2144ab5486cc6a74fea415f VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add noInputParam call
+2e423c1649f46a0ac2144ab5486cc6a74fea415f d5303c267a9c0e2b73da96aff5b393e0f8493864 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add inputRefParam call
+d5303c267a9c0e2b73da96aff5b393e0f8493864 5889d981352d9848123786c0fcba6e0f51070a70 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add inputPtrParam call
+5889d981352d9848123786c0fcba6e0f51070a70 a687e2a80ab1fe89309552df00c0c230eaa1789b VaRA Tester <vara-test@example.com> 1430823599 +0200	commit: Adds usage for variables
