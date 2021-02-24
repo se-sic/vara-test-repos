@@ -7,3 +7,4 @@ f15019873ed2e808fd04d01469fb3bd2dc1fc9ec 5e030723d70f4894c21881e32dba4decec815c7
 5e030723d70f4894c21881e32dba4decec815c7e bd693d7bc2e4ae5be93e300506ba1efea149e5b7 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds elementalist code - get_shout()
 bd693d7bc2e4ae5be93e300506ba1efea149e5b7 97c573ee98a1c2143b6876433697e363c9eca98b VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds elementalist code - get_shout("Tricked ya! Still casting water stuff!"), get_water_spell()
 97c573ee98a1c2143b6876433697e363c9eca98b e64923e69eab82332c1bed7fe1e80e14c2c5cb7f VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds elementalist code - get_fire_spell(), Mana consumed
+e64923e69eab82332c1bed7fe1e80e14c2c5cb7f 5e8fe1616d90b21b956acd4b79c89f04bc570d6b VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add earth_lib code to Elementalist

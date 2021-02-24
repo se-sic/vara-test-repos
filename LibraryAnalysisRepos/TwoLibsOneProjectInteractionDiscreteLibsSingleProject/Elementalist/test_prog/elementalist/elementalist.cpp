@@ -1,5 +1,6 @@
 #include "fire.h"
 #include "water.h"
+#include "earth.h"
 
 #include <iostream>
 
@@ -20,6 +21,10 @@ void handle_elementalist_stuff() {
 
   std::cout << get_fire_spell() << std::endl;
   std::cout << "All mana consumed." << std::endl;
+
+  std::cout << get_shout("Drinking mana potion!") << std::endl;
+  std::cout << get_earth_spell() << std::endl;
+  std::cout << get_shout("Fin") << std::endl;
 }
 
 int main(/* int argc, char *argv[] */) {

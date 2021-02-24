@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 47d5ed6b5e45b269adb57a0497175f3cd00a7885 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Added empty project files
+47d5ed6b5e45b269adb57a0497175f3cd00a7885 ae9b180cf0021db7f0d3ab8bd00012470c18c26b VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add CMakeLists code
+ae9b180cf0021db7f0d3ab8bd00012470c18c26b d9731c71b99869a947468637c854a083d3b26a1b VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds function head for earth lib
+d9731c71b99869a947468637c854a083d3b26a1b 1db6fbe4ac13826a42f469afd059230a41818f76 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds impl of earth lib

@@ -4,3 +4,6 @@
 [submodule "external/fire_lib"]
 	path = external/fire_lib
 	url = ../fire_lib
+[submodule "external/earth_lib"]
+	path = external/earth_lib
+	url = ../earth_lib

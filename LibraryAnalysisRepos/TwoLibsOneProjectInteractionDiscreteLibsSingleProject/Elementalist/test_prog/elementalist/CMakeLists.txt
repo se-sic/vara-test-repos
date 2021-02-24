@@ -5,4 +5,5 @@ add_executable(elementalist
 target_link_libraries(elementalist
   fireLib
   waterLib
+  earthLib
 )
