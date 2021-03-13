@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 12483288f586d53377983edd6f6b25cf3afa3bc8 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.cpp with empty main method
+12483288f586d53377983edd6f6b25cf3afa3bc8 c9e986776dfdc9e1d2fafe32acc4a21907aa1449 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds global var
+c9e986776dfdc9e1d2fafe32acc4a21907aa1449 950d8dd34b5fd2deb0f6d211939efcd80d781343 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds side effect func
+950d8dd34b5fd2deb0f6d211939efcd80d781343 3e42c3fb205b48d536e842f581c0da8cb68d5ad2 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add func with return
+3e42c3fb205b48d536e842f581c0da8cb68d5ad2 ff876342e928723a25e013c472592c6b368dc8df VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds call to sideeffect func
+ff876342e928723a25e013c472592c6b368dc8df 457930779bb5ab011acf19784b44bbf0b253544c VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Add call to return func
