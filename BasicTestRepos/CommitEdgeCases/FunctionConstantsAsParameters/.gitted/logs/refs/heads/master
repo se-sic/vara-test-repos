@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 5aea7251214381e06f1fb687a469a4e2029661be VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.cpp with empty main method
+5aea7251214381e06f1fb687a469a4e2029661be a142afff92d58eca4ca1c22e72ed1e72752f33b1 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds function call without args
+a142afff92d58eca4ca1c22e72ed1e72752f33b1 ddffb1e11364a9a6c622f767fb4293968629c4b8 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds const arg 1
+ddffb1e11364a9a6c622f767fb4293968629c4b8 a6fcc5dfb88b5f9c0bf6417357bda683589bab09 VaRA Tester <vara-test@example.com> 1325444400 +0100	commit: Adds const arg 2
