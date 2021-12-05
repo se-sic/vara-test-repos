@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 61d580911b7bb463de06e49b7e497236650b2c62 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.c with empty main method
+61d580911b7bb463de06e49b7e497236650b2c62 402d1d6272312902b1757088216fc9732f067927 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds calculation
+402d1d6272312902b1757088216fc9732f067927 e18c8f6106815e730f0cffd1ac2893fd093c85d9 VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Removes variable c
