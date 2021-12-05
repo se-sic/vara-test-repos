@@ -1,3 +1,5 @@
+#include <stdbool.h>
+
 bool somePredicate();
 
 int main(/* int argc, char *argv[] */) {

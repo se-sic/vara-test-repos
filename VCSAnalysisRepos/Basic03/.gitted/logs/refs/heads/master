@@ -1,3 +1,3 @@
 0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 25d6e1c15df3bf6df9da782e25753d51ff879f4b VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.c with base code
-25d6e1c15df3bf6df9da782e25753d51ff879f4b e0cf5460170e1580cad0abfe8bd3ca3be545d92e VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Fixes answer to everything
+25d6e1c15df3bf6df9da782e25753d51ff879f4b a35c912af6987475708c86b56ad2c6a4f52d074d VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Fixes answer to everything
