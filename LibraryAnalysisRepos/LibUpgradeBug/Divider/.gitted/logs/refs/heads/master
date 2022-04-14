@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 32aa069a0d23972a0679881057557ed384e89973 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Divider v1
+32aa069a0d23972a0679881057557ed384e89973 baf7c018fa0d4db2d2f8629fcd0fddd79ba01036 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add call to libfraction::init()
+baf7c018fa0d4db2d2f8629fcd0fddd79ba01036 f8a600fe235914606d61fba1a6eb069ba561aeb1 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Update libfraction
