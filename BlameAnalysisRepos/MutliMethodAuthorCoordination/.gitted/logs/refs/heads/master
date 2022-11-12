@@ -1,5 +1,5 @@
 0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf ffb0fb502072846e081ac9f63f1eb86667197b95 Dave <dave@sql.com> 1262372400 +0100	commit: Adds sql database loading to loader.cpp
-ffb0fb502072846e081ac9f63f1eb86667197b95 04666ccd909313bfad8401f9cfeb16b0dc0aa11c Chloe <Chloe@worker.com> 1262372400 +0100	commit: Adds sql database loading to computation.cpp
-04666ccd909313bfad8401f9cfeb16b0dc0aa11c afbabc0514b90b7fe3f803185708b92e28fdefe0 Fritz <fritzob@example.com> 1262372400 +0100	commit: Adds file loader function
-afbabc0514b90b7fe3f803185708b92e28fdefe0 ca7012ef8d9883c79a3ac3919995477e113c6e7d Sven <sven@worker.com> 1262372400 +0100	commit: Adds service endpoint
+ffb0fb502072846e081ac9f63f1eb86667197b95 28f1624bda75a0c2da961e2572f9eebc31998346 Chloe <Chloe@worker.com> 1262372400 +0100	commit: Adds computation impl to computation.cpp
+28f1624bda75a0c2da961e2572f9eebc31998346 9209cff2d5b6cf9b7b39020b43081bd840347be2 Fritz <fritzob@example.com> 1262372400 +0100	commit: Adds file loader function
+9209cff2d5b6cf9b7b39020b43081bd840347be2 f2f294bdda48526915b5a018e7e91f9f80204269 Sven <sven@worker.com> 1262372400 +0100	commit: Adds service endpoint
