@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 296bbddc23fb60a5dc362f5e52c006d08e5f3094 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add main.cpp with empty main method
+296bbddc23fb60a5dc362f5e52c006d08e5f3094 f34277b1e022aae3fb7cb82c02e7a134c6826467 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds helper code
+f34277b1e022aae3fb7cb82c02e7a134c6826467 e4612014aed50efac8da9dd6dfb364c63f6f274a VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Includes feature utilities
+e4612014aed50efac8da9dd6dfb364c63f6f274a 9b0621201cc9606432b3a87c7ed27dcdb4c7317b VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Inserts basic feature code
+9b0621201cc9606432b3a87c7ed27dcdb4c7317b 1fa18025cfde4adf99c8070ab1d99b930a3b3fe6 VaRA Tester <vara-test@example.com> 1430823599 +0200	commit: Let foo compute more
