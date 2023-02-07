@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 92fda4d0cc22e087d7e3c05b1603742161a0adfb VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): Initial commit
+92fda4d0cc22e087d7e3c05b1603742161a0adfb 4ceeaa9eb40f4f44bc771655802c673ccae83959 Sebastian Böhm <boehmseb@cs.uni-saarland.de> 1262372400 +0100	commit: Version A
+4ceeaa9eb40f4f44bc771655802c673ccae83959 d4a968856dcf80c48cf60b6ef37e1a1ba7a31d5d Sebastian Böhm <boehmseb@cs.uni-saarland.de> 1262372400 +0100	commit: Unrelated change
+d4a968856dcf80c48cf60b6ef37e1a1ba7a31d5d 5a35a2efa63b0db73dce4ce86cc904760509f69f Sebastian Böhm <boehmseb@cs.uni-saarland.de> 1262372400 +0100	commit: Version B
