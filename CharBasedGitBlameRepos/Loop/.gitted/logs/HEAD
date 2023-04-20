@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 9ab9c4366af9b628393332e57541ced8bcd3a304 VaRA Tester <vara-test@example.com> 1289444644 +0100	commit: Add base implementation
+9ab9c4366af9b628393332e57541ced8bcd3a304 46cfe6f1abd8aceeb4a16eabb324b3bef44a1200 VaRA Tester <vara-test@example.com> 1325412671 +0100	commit: Add function loop_function
+46cfe6f1abd8aceeb4a16eabb324b3bef44a1200 963ab7f6e6730e6fbf8c3c4718ad1e5f3dbc87c7 VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Change name of loop variable
+963ab7f6e6730e6fbf8c3c4718ad1e5f3dbc87c7 6968583cef191220de68d58cff255d1ac8a46bbd VaRA Tester <vara-test@example.com> 1325412671 +0100	commit: Add function enhanced_loop
+6968583cef191220de68d58cff255d1ac8a46bbd 63bb631181eee27b5f89759998fdd52d0fa6265d VaRA Tester <vara-test@example.com> 1352617200 +0100	commit: Change auto to specific type
+63bb631181eee27b5f89759998fdd52d0fa6265d d58b05e5bcb21c8d89d35c078e318822fe1a2d48 VaRA Tester <vara-test@example.com> 1352617260 +0100	commit: Change name of array variable
+d58b05e5bcb21c8d89d35c078e318822fe1a2d48 2b4f207d0d0890f8ba689e375152ce29c75185fc VaRA Tester <vara-test@example.com> 1352617320 +0100	commit: Change name of enhanced loop variable

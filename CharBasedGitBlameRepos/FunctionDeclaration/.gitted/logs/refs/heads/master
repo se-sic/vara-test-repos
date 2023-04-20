@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf a6392817f0ebbac1cc964b6e8605bd83394f96dc VaRA Tester <vara-test@example.com> 1292116442 +0100	commit: Add base implementation
+a6392817f0ebbac1cc964b6e8605bd83394f96dc df49f118910492e21cae8d13b065276f66281830 VaRA Tester <vara-test@example.com> 1325466122 +0100	commit: Add some_function and function call
+df49f118910492e21cae8d13b065276f66281830 ca167f86eaf4d6274f5cf7b42b079c18b9b0d62d VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Add parameter to some_function
+ca167f86eaf4d6274f5cf7b42b079c18b9b0d62d ad34f149028ba42fd6cd254417ab0236e7cbebcd VaRA Tester <vara-test@example.com> 1328144523 +0100	commit: Change type of parameter
+ad34f149028ba42fd6cd254417ab0236e7cbebcd 41974aec5e131b43660a281283fae854dd6eaed3 VaRA Tester <vara-test@example.com> 1328144524 +0100	commit: Change name of parameter

@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf dea47927754a6bb34009063a4cb893bc91004b2a VaRA Tester <vara-test@example.com> 1262379722 +0100	commit: Add base implementation
+dea47927754a6bb34009063a4cb893bc91004b2a 3255463271ac4799da8d07590bfefa6c0e99398a VaRA Tester <vara-test@example.com> 1265058122 +0100	commit: Rename class attribute i
+3255463271ac4799da8d07590bfefa6c0e99398a 58459cfd97f9c6a8713a5c691fc36aaf0fe9fa67 VaRA Tester <vara-test@example.com> 1265079722 +0100	commit: Rename parameter of constructor
+58459cfd97f9c6a8713a5c691fc36aaf0fe9fa67 7837d2aeec0f1bc2acca95184586cb2253689ad9 VaRA Tester <vara-test@example.com> 1265082122 +0100	commit: Add body to constructor
+7837d2aeec0f1bc2acca95184586cb2253689ad9 e4d76dc0c7193cfa394e41acda03628cc23a7a48 VaRA Tester <vara-test@example.com> 1265103722 +0100	commit: Change called function
+e4d76dc0c7193cfa394e41acda03628cc23a7a48 a965214eed5910b381524686c7d022f17b04cf7b VaRA Tester <vara-test@example.com> 1291282922 +0100	commit: Change object in function call
+a965214eed5910b381524686c7d022f17b04cf7b b75ec269d73327f7b8f503026ae4146788b3ff72 VaRA Tester <vara-test@example.com> 1291282972 +0100	commit: Make fooB a pointer
+b75ec269d73327f7b8f503026ae4146788b3ff72 7e56aa94a76be6a0245368cb2bc48eb9158b83c8 VaRA Tester <vara-test@example.com> 1296608522 +0100	commit: Introduce direct initialization
+7e56aa94a76be6a0245368cb2bc48eb9158b83c8 41f1a96b84ab6e8158d4a0ca11babcc734e7e6bd VaRA Tester <vara-test@example.com> 1296608523 +0100	commit: Add variable with unary operator
+41f1a96b84ab6e8158d4a0ca11babcc734e7e6bd 865ea5dafee6f695e624b6c0079c211ad20d2bc7 VaRA Tester <vara-test@example.com> 1296608524 +0100	commit: Change unary operator

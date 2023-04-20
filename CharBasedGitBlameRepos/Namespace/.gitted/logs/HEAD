@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 87f116f8de58520da4eddb00350b89068bb98398 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add base implementation
+87f116f8de58520da4eddb00350b89068bb98398 beba849763593b915152d64f5ec8a482bfcc0f06 VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Introduce using keyword

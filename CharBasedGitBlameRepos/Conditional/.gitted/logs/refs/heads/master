@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 8b2940f26d20e76ba7212935ccd507736fd8b368 VaRA Tester <vara-test@example.com> 1262379722 +0100	commit: Add base implementation
+8b2940f26d20e76ba7212935ccd507736fd8b368 73928b0410585375c7bdff62f985d376dec8ea22 VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Adjust condition
+73928b0410585375c7bdff62f985d376dec8ea22 990d0863b3c34b70d05dd4d0ecaed39f26a2d11b VaRA Tester <vara-test@example.com> 1328144572 +0100	commit: Add function conditional_declaration
+990d0863b3c34b70d05dd4d0ecaed39f26a2d11b 2f5e3f926af735d3732495c1e0abd1cfe79d8366 VaRA Tester <vara-test@example.com> 1328180572 +0100	commit: Change variable name of conditional decl
+2f5e3f926af735d3732495c1e0abd1cfe79d8366 54f96c7a33246c45cc0e6eddccee2bba73322bd1 VaRA Tester <vara-test@example.com> 1328184052 +0100	commit: Change type of conditional decl
