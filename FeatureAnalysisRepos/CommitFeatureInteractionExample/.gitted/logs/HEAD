@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 e730ca9fa25331d784371532a7e6f9c14a4ae179 Peter Tester <peter-test@example.com> 1262372400 +0100	commit (initial): initial commit
+e730ca9fa25331d784371532a7e6f9c14a4ae179 dac28b394bf909e750bf231fc6fa2c21b3cc305a Thomas Tester <thomas-test@example.com> 1262372400 +0100	commit: Add main.cpp with empty main method
+dac28b394bf909e750bf231fc6fa2c21b3cc305a d8db5192f4ec40fc20963209f477d2103d5b9e45 Thomas Tester <thomas-test@example.com> 1262372400 +0100	commit: Adds helper code
+d8db5192f4ec40fc20963209f477d2103d5b9e45 9595f42be46bb138b5b03f15d86f7aea018b2615 Peter Tester <peter-test@example.com> 1293908400 +0100	commit: Includes feature utilities
+9595f42be46bb138b5b03f15d86f7aea018b2615 322ac57d6582dae8d53b1b36134db61fe5559970 Peter Tester <peter-test@example.com> 1328144522 +0100	commit: Inserts basic feature code
+322ac57d6582dae8d53b1b36134db61fe5559970 97404c0e5535cde642d26c64d0621339b634e100 Thomas Tester <thomas-test@example.com> 1362276183 +0100	commit: Adds code implementing functionality of Feature A
+97404c0e5535cde642d26c64d0621339b634e100 d1dfa217ad42aebc8fcecedc48cb47f0494b4ec4 Peter Tester <peter-test@example.com> 1362279844 +0100	commit: Adds code implementing functionality of Feature B
+d1dfa217ad42aebc8fcecedc48cb47f0494b4ec4 3b86bc835cd903b6de6dc31a51faaa3e364674ce Peter Tester <peter-test@example.com> 1362366244 +0100	commit: Adds code implementing functionality of Feature A and B combined
