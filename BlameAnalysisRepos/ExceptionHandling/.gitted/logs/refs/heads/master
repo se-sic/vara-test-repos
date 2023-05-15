@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 2e356c2855353e7bd29242a8092d951cf6b89a73 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Adds main.cpp with empty main method
+2e356c2855353e7bd29242a8092d951cf6b89a73 5ab8989ff0b1589faa8b98399ed525163bf5b5e6 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds MyInt class
+5ab8989ff0b1589faa8b98399ed525163bf5b5e6 7a3cc66293d0a356d57f3dd85bb56b47f60ea9c0 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds funcA
+7a3cc66293d0a356d57f3dd85bb56b47f60ea9c0 15d33323df85e7dff2a87129a2b778e1ae9363be VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds call to funcA
+15d33323df85e7dff2a87129a2b778e1ae9363be 06be9e8dde54dad0c5821f571428153a51a0e887 VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds funcB
+06be9e8dde54dad0c5821f571428153a51a0e887 1b4e621c4771d2972898734c6ad5a59ce53f4efb VaRA Tester <vara-test@example.com> 1293908400 +0100	commit: Adds call to funcB
