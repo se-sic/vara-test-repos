@@ -1,3 +1,3 @@
 0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
-c62c8c64c4c21ffe96f2863e94eab12687ad2cbf ad1a6442dbfc12bc6ce85c19a1047ffaa1fe877f VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add base implementation
-ad1a6442dbfc12bc6ce85c19a1047ffaa1fe877f db68f602b72c620796b55042aa194db5e3f40852 VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Subtract 1
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 2553b819d9434f3396727617438dc0d6ae39b056 VaRA Tester <vara-test@example.com> 1262372400 +0100	commit: Add base implementation
+2553b819d9434f3396727617438dc0d6ae39b056 2b9a08d1adb63d2db9283811f79ac66e373ccfe9 VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Subtract 1

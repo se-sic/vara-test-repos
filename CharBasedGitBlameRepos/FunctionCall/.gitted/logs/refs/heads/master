@@ -1,4 +1,4 @@
 0000000000000000000000000000000000000000 c62c8c64c4c21ffe96f2863e94eab12687ad2cbf VaRA Tester <vara-test@example.com> 1262372400 +0100	commit (initial): initial commit
-c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 99af107c1ac76e00920b57fe3be36aa99d17f3ec VaRA Tester <vara-test@example.com> 1265068923 +0100	commit: Add base implementation
-99af107c1ac76e00920b57fe3be36aa99d17f3ec 3a646828e62caa00c19c7ad3c68ba233eb454681 VaRA Tester <vara-test@example.com> 1296647522 +0100	commit: Add some_function and function call
-3a646828e62caa00c19c7ad3c68ba233eb454681 1c59bf3acf1849d5d7b572131df804b40e9c1739 VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Change call parameters
+c62c8c64c4c21ffe96f2863e94eab12687ad2cbf 1de301ecb7d85789569a96aa77506d49962b1b94 VaRA Tester <vara-test@example.com> 1265068923 +0100	commit: Add base implementation
+1de301ecb7d85789569a96aa77506d49962b1b94 3dfd6067d07f3cd29c538930b0238c08c74bfa89 VaRA Tester <vara-test@example.com> 1296647522 +0100	commit: Add some_function and function call
+3dfd6067d07f3cd29c538930b0238c08c74bfa89 3f90e82f596ceaca5f8815959a7cb1dbd341d85b VaRA Tester <vara-test@example.com> 1328144522 +0100	commit: Change call parameters
